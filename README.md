@@ -7,7 +7,7 @@
 ## Learn Learn $ Learn:
 
 - 😻 A Full-Stack Developer(MERN).
-- 🌱 I’m currently learning Dapp(solidity).
+- 🌱 I’m currently learning Deep Learning .
 - 🥅 Machine Learning engineer.
 - 👯 I’m looking to collaborate with other programmers and network with as many people as possible.
 - ⚡ Always Learning new technologies.
