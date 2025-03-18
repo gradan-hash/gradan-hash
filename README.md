@@ -6,7 +6,7 @@
 
 ## Learn Learn $ Learn:
 
-- 😻 A Full-Stack Developer(MERN).
+- 😻 A Full-Stack Developer.
 - 🌱 I’m currently learning Deep Learning .
 - 🥅 Machine Learning engineer.
 - 👯 I’m looking to collaborate with other programmers and network with as many people as possible.
@@ -28,6 +28,9 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Vue.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
